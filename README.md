@@ -6,6 +6,6 @@ You'll notice there's no actual code in this repo. This will be used to house an
 
 ### Documentation
 
-The Form Tools documentatation is open source and found here: https://github.com/formtools/docs
+The Form Tools documentation is open source and found here: https://github.com/formtools/docs
 
 Feel free to edit the docs there and submit pull requests so I can incorporate it into the site.
