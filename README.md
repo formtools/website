@@ -7,7 +7,3 @@ You'll notice there's no actual code in this repo. This will be used to house an
 ### Documentation
 
 The Form Tools documentatation is fully open source and found here: https://github.com/formtools/docs
-
-Contributions welcome! 
-
-Similarly, all module and theme documentation are found in the module's github repo, under a `ft-docs` branch.
